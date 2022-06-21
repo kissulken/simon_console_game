@@ -1,0 +1,3 @@
+﻿  ColorBlocks.cpp
+C:\Users\Kissulken\Desktop\simon_console_game-master\simon_console_game-master\SIMON\ColorBlocks.cpp(139,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  SIMON.vcxproj -> C:\Users\Kissulken\Desktop\simon_console_game-master\simon_console_game-master\x64\Debug\SIMON.exe
